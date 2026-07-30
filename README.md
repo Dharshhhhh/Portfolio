@@ -1,5 +1,7 @@
 # Ex01 Portfolio
-## Date:
+## NAME: DHARSHINI R
+## REG NO: 212224220023
+## Date: 28/07/2026
 
 ## AIM
 To create a Portfolio using HTML and CSS.
